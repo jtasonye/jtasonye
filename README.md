@@ -4,8 +4,11 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhuaXFuaWh1cG1nOGc3ZGFlNDF4ejJmYmszZDU0dG12aDg3NGwzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XG5Zdo5MOxMpfPNicm/giphy.gif" width="400"/>
 </div>
 
-<div id="linkedin-badge" align="center">
-  <a href="https://www.linkedin.com/in/jason-asonye/">
+<div id="badges" align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jasonasonye@gmail.com&body=my-text" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jason-asonye/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
