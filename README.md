@@ -5,10 +5,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jasonasonye@gmail.com&body=my-text" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jasonasonye@gmail.com&body=">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/jason-asonye/" target="_blank">
+  <a href="https://www.linkedin.com/in/jason-asonye/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
