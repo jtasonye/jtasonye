@@ -20,7 +20,7 @@
 
 ### 👋: About Me :
 
-I am a Computer Science student 🎒 at Gordon College, passionate about software and systems engineering. <br />
+I am a Junior, Computer Science Major 🎒 at Gordon College. <br />
 Here's a bit more about me:
 
 - 💻: Aspiring Software/Systems Engineer with hands-on experience in projects involving Powershell, API's, Databases, and more.
