@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhuaXFuaWh1cG1nOGc3ZGFlNDF4ejJmYmszZDU0dG12aDg3NGwzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XG5Zdo5MOxMpfPNicm/giphy.gif" width="200"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhuaXFuaWh1cG1nOGc3ZGFlNDF4ejJmYmszZDU0dG12aDg3NGwzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XG5Zdo5MOxMpfPNicm/giphy.gif" width="400"/>
 </div>
 
 <div id="linkedin-badge" align="center">
