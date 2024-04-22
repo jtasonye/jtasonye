@@ -28,6 +28,10 @@ Here's a bit more about me:
 - ⚡: Using this space to put down any fun ideas or learning projects I may be working on.
 - 📬: How to reach me: jason.asonye@gordon.edu.
 
+---
+
+### 🛠️: Languages and Tools :
+
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
