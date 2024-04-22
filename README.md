@@ -20,13 +20,11 @@
 
 ### 👋: About Me :
 
-I am a Junior, Computer Science Major 🎒 at Gordon College. <br />
-Here's a bit more about me:
-
-- 💻: Aspiring Software/Systems Engineer with hands-on experience in projects involving Powershell, API's, Databases, and more.
-- 🌱: Currently working on my website, <a href="https://faithfocus.vercel.app/">FaithFocus</a>, where I plan to implement a database system and user authentication.
-- ⚡: Using this space to put down any fun ideas or learning projects I may be working on.
-- 📬: How to reach me: jason.asonye@gordon.edu.
+- ➟ 🏫 Junior at Gordon College. <br />
+- ➟ 💻 Aspiring Software/Systems Engineer with hands-on experience in projects involving Powershell, API's, Databases, and more.
+- ➟ 🌱 Currently working on my website, <a href="https://faithfocus.vercel.app/">FaithFocus</a>, where I plan to implement a database system and user authentication.
+- ➟ ⚡ Using this space to put down any fun ideas or learning projects I may be working on.
+- ➟ 📬 How to reach me: jason.asonye@gordon.edu.
 
 ---
 
