@@ -22,7 +22,7 @@
 
 - ➟ 🏫 Junior at Gordon College. <br />
 - ➟ 💻 Aspiring Software/Systems Engineer with hands-on experience in projects involving Powershell, API's, Databases, and more.
-- ➟ 🌱 Currently working on my website, <a href="https://faithfocus.vercel.app/">FaithFocus</a>, where I plan to implement a database system and user authentication.
+- ➟ 🌱 Currently learning user authentication and database storage for my website, <a href="https://faithfocus.vercel.app/">FaithFocus</a>.
 - ➟ ⚡ Using this space to put down any fun ideas or learning projects I may be working on.
 - ➟ 📬 How to reach me: jason.asonye@gordon.edu.
 
@@ -41,6 +41,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/powershell/powershell-original.svg" title="Powershell" alt="Powershell" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jtasonye&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtasonye&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **jtasonye/jtasonye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
