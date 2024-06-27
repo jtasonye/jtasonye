@@ -23,7 +23,7 @@
 
 ### 👋: About Me :
 
-- ➟ 🏫 Junior at Gordon College. <br />
+- ➟ 🏫 Rising Senior at Gordon College. <br />
 - ➟ 💻 Aspiring Software/Systems Engineer with hands-on experience in projects involving Powershell, API's, Databases, and more.
 - ➟ 🌱 Currently learning user authentication and database storage for my website, <a href="https://faithfocus.vercel.app/">FaithFocus</a>.
 - ➟ ⚡ Using this space to put down any fun ideas or learning projects I may be working on.
